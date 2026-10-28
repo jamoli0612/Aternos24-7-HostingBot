@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
-    "password": "",
+    "username": "LikeAn",
+    "password": "gamekiller",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "EclipSMP.aternos.me",
+    "port": 54658,
     "version": "",
     "try-creative": false
   },
